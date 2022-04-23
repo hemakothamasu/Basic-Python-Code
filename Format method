@@ -1,0 +1,4 @@
+x= 5
+y= 6
+z= 43
+print('value of x {} \nValue of y {}, Value of z {}'.format(x,y,z))
