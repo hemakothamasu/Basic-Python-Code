@@ -1,0 +1,8 @@
+#enter the values
+x= 20
+y= 100
+print(x-y)
+"""print the values
+enter any number 
+should not appear"""
+print(x+y)
