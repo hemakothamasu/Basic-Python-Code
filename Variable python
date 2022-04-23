@@ -1,0 +1,24 @@
+x = 10
+print(x)
+
+y=x
+print(y,x)
+
+x= float(10)
+print(x)
+
+x="1023dfsd"
+print(y,x)
+
+x= 20
+y= 60
+print(x+y)
+
+x=30,304,23,10
+y=x
+print(y,x)
+
+x= 10
+y= 1995
+print('my age is', +x,'i born in year', +y)
+print('my date of birth is', y, 'my age is', x)
